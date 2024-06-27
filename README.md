@@ -8,7 +8,8 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&fontAlignY=40&animation=twinkling&fontColor=d6ace6&color=auto&height=200&section=header&text=기현&fontSize=50&lineHeight=20" />
 
-  ![473f091bd4b47a2699efefc30217a798](https://github.com/gihyun0801/gihyun0801/assets/134690187/d8b89988-8a48-41c2-a850-2394f9848065)
+
+
 
 
   <div>
