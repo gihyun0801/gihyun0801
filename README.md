@@ -6,7 +6,7 @@
 
 
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Gihyun%20&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&fontAlignY=40&animation=twinkling&fontColor=d6ace6&color=auto&height=200&section=header&text=기현&fontSize=50&lineHeight=20" />
 
   ![473f091bd4b47a2699efefc30217a798](https://github.com/gihyun0801/gihyun0801/assets/134690187/d8b89988-8a48-41c2-a850-2394f9848065)
 
@@ -44,7 +44,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer&text=GiHyun&fontSize=70" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&fontAlignY=70&animation=twinkling&fontColor=d6ace6&color=auto&height=200&section=footer&text=기현&fontSize=50" />
+
 </div>
 
 
