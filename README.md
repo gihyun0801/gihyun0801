@@ -40,11 +40,8 @@
 
 <br><br>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gihyun0801&show_icons=true&theme=merko)
 
- <br><br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko&hide=GLSL,C++,AsTro,MakeFile,Rust&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko&hide=GLSL,C++,AsTro,MakeFile,Rust&langs_count=10)
 
 
  <img src="https://capsule-render.vercel.app/api?type=waving&fontAlignY=70&animation=twinkling&fontColor=d6ace6&color=auto&height=200&section=footer&text=기현&fontSize=50" />
