@@ -23,7 +23,7 @@
 
   <p>☀️  TOOLS   ☀️</p>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge,flat-square&logo=Eclipse&logoColor=white">
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat" alt="VS Code">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge,flat-square&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge,flat-square&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge,flat-square&logo=Oracle&logoColor=white">
