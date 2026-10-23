@@ -23,7 +23,7 @@
 
   <p>☀️  TOOLS   ☀️</p>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge,flat-square&logo=Eclipse&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge,flat-square&logo=Visual Studio Code&logoColor=white">
+  <img alt="Visual Studio Code icon redesign for macOS, VScode, blue and white logo, png | PNGEgg" id="dimg_Ee3aar3jK7L31e8P-KSfuA4_357" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQYAJovCjNhKDxpCwzE9tBq1uyMJjZT152vKB5ilmJAw&amp;s=10" data-csiid="Ee3aar3jK7L31e8P-KSfuA4_104" data-atf="4" data-deferred="3" data-iml="1792732490087">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge,flat-square&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge,flat-square&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge,flat-square&logo=Oracle&logoColor=white">
